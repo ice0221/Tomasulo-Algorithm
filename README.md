@@ -39,10 +39,10 @@ MUL and DIV instruction need to spend eight cycles on executing
 cycle:19
 
 	--RF--
-	F1 | 4  |
+	F1 | 4 |
 	F2 | 30 |
-	F3 | 4  |
-	F4 | 4  |
+	F3 | 4 |
+	F4 | 4 |
 	F5 | 64 |
 	------
 
